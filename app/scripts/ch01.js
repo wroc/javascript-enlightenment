@@ -12,7 +12,7 @@ console.log(Manny);
 */
 
 // console.log('Chapter 1: Demo 1.1');
-
+/*
 var Manny = new Object();
 Manny.living = true;
 Manny.age = 31;
@@ -29,3 +29,17 @@ Manny.getStatus = function(){
 	'use strict';
 	return Manny.living;
 };
+*/
+
+// console.log('Chapter 1: Demo 1.2');
+
+var myObject = new Object(); //producs an object objec
+myObject['0'] = 'f';
+myObject['1'] = 'o';
+myObject['2'] = 'o';
+
+console.log(myObject);
+
+var myString = new String('foo');
+
+console.log(myString);
