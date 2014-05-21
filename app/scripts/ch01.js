@@ -67,16 +67,55 @@ var myString = new String('foo');
 console.log(myString);
 */
 
-console.log('Chapter 1: Demo 1.3.1');
+//console.log('Chapter 1: Demo 1.3.1, Javascript Constructors Construct and Return Objects Instances');
 // create MannyB object using the Object() constructor
-var MannyB = new Object();
+/*
+var MannyA = new Object();
 
-MannyB.living = true;
-MannyB.age = 31;
-MannyB.gender = 'male';
-MannyB.getGender = function() { return MannyB.gender; };
+MannyA.living = true;
+MannyA.age = 31;
+MannyA.gender = 'male';
+MannyA.getGender = function() { return MannyA.gender; };
 
-console.log(MannyB);
+console.log(MannyA);
+*/
+
+// "this" below is the new object that is being created ie, this new Object();
+/*
+var Person = function(living, age, gender, name){
+	this.living = living;
+	this.age = age;
+	this.gender = gender;
+	this.name = name
+	this.getGender = function() { return this.gender; };
+	this.getName = function(){ return this.name };
+	//when the function is called with the new keyword "this" is returned instead of undefined
+};
+*/
+
+// instantiate a Person object object named MannyF
+/*
+var MannyF = new Person(true, 33, 'male', 'Mannuel Ferreira');
+console.log(MannyF);
+
+var refilweF = new Person(true, 31, 'female', 'Refilwe Ferreira');
+console.log(refilweF);
+*/
+
+//log object
+// console.log(typeof MannyF); 
+// //logs the internal properties and values of Manny
+// console.log(MannyF);
+// //logs the Person(); function
+// console.log(MannyF.constructor);
+
+console.log('Chaper 1: Demo 1.4, Javascript Constructors Construct and Return Objects Instances');
+
+var myArray = new Array();
+console.log(myArray);
+console.log(myArray.constructor);
+
+
 
 
 
