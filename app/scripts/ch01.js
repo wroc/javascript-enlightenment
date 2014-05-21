@@ -1,6 +1,7 @@
 
 //create the Manny object 
-console.log('Chapter 1: Demo 1.0');
+//console.log('Chapter 1: Demo 1.0');
+'use strict';
 /*
 var manny = new Object();
 
@@ -18,15 +19,12 @@ Manny.living = true;
 Manny.age = 31;
 Manny.gender = 'Male';
 Manny.getGender = function(){
-	'use strict';
 	return Manny.gender;
 };
 Manny.getAge = function(){
-	'use strict';
 	return Manny.age;
 };
 Manny.getStatus = function(){
-	'use strict';
 	return Manny.living;
 };
 */
@@ -45,11 +43,11 @@ var myString = new String('foo');
 console.log(myString);
 */
 
-console.log('Chapter 1: Demo 1.3.0');
+//console.log('Chapter 1: Demo 1.3.0');
 
 // define person constructor
+/*
 var Person = function(living, age, gender){
-	'use strict';
 	this.living = living;
 	this.age = age;
 	this.gender = gender;
@@ -63,11 +61,22 @@ console.log(Manny);
 /*
 This String  constructor function below, having been defined by Javascript, has the same pattern. Because the string constructor is native to JavaScript, all we have to do to get a string instance is instantiate it. But the pattern is the same whether we use native constructors lke String() or user-defined constructors like Person();
 */
+/*
 var myString = new String('foo');
 
 console.log(myString);
+*/
 
+console.log('Chapter 1: Demo 1.3.1');
 // create MannyB object using the Object() constructor
 var MannyB = new Object();
+
+MannyB.living = true;
+MannyB.age = 31;
+MannyB.gender = 'male';
+MannyB.getGender = function() { return MannyB.gender; };
+
+console.log(MannyB);
+
 
 
