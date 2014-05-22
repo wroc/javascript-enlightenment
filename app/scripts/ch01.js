@@ -109,7 +109,7 @@ console.log(refilweF);
 // //logs the Person(); function
 // console.log(MannyF.constructor);
 
-console.log('Chaper 1: Demo 1.4, Javascript Constructors Construct and Return Objects Instances');
+console.log('Chapter 1: Demo 1.4, Javascript Constructors Construct and Return Objects Instances');
 
 var myArray = new Array();
 console.log(myArray);
