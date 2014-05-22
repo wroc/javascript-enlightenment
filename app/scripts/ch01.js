@@ -29,7 +29,7 @@ Manny.getStatus = function(){
 };
 */
 
-// console.log('Chapter 1: Demo 1.2');
+// console.log('Chapter 1: Demo 1.1.2');
 /*
 var myObject = new Object(); //producs an object objec
 myObject['0'] = 'f';
@@ -43,7 +43,7 @@ var myString = new String('foo');
 console.log(myString);
 */
 
-//console.log('Chapter 1: Demo 1.3.0');
+//console.log('Chapter 1: Demo 1.1.3.0');
 
 // define person constructor
 /*
@@ -67,7 +67,7 @@ var myString = new String('foo');
 console.log(myString);
 */
 
-//console.log('Chapter 1: Demo 1.3.1, Javascript Constructors Construct and Return Objects Instances');
+//console.log('Chapter 1: Demo 1.1.3.1, Javascript Constructors Construct and Return Objects Instances');
 // create MannyB object using the Object() constructor
 /*
 var MannyA = new Object();
@@ -109,7 +109,7 @@ console.log(refilweF);
 // //logs the Person(); function
 // console.log(MannyF.constructor);
 
-console.log('Chapter 1: Demo 1.4, Javascript Constructors Construct and Return Objects Instances');
+console.log('Chapter 1: Demo 1.1.4, Javascript Constructors Construct and Return Objects Instances');
 
 var myArray = new Array();
 console.log(myArray);
