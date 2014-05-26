@@ -33,6 +33,15 @@
 		myFunction.constructor === Function,
 		myNumberL.constructor === Function,
 		myDate.constructor === Date,
-		myRegExp.constructor === RegExp
-
+		myRegExp.constructor === RegExp,
+		myRegExpL.constructor === RegExp
 		);
+
+	console.log('');
+	console.log('The constructor property also works on user-defined constructor functions. Below we define a CustomConstructor() constructor function, then using the keyword new, we invoke the function to produce an object, once we have our object we can then leverage the constructor property');
+
+	var CustomConstructor = function CustomConstructor(){ return 'WOW!'; };
+	var instanceOfCustomObject = new CustomConstructor();
+
+	console.log(instanceOfCustomObject.constructor === CustomConstructor);
+	console.log(instanceOfCustomObject.constructor);
