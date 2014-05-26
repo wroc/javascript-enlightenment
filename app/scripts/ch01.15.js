@@ -1,6 +1,6 @@
 	'use strict';
 
-	console.log('Chapter 1: Demo 1.14, Dynamic Properties Allow for Mutable Object');
+	console.log('Chapter 1: Demo 1.15, Dynamic Properties Allow for Mutable Object');
 
 	console.log('Complex object are made up of Dynamic Properties, This allows for user-defined objects and most of the native object to mutated. This means its possible to store properties on native constructors and add new methods to the native objects with additions to their prototype objects');
 
