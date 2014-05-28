@@ -7,7 +7,6 @@
 	var myObject = {};
 
 	//contain properties inside of myObject representing most of the values JavaScript values
-
 	myObject.myFunction = function() {};
 	myObject.myArray = [];
 	myObject.myString = 'string hello there';
@@ -27,3 +26,29 @@
 		myObject.myError
 
 		);
+
+
+	var myFunction = function() {};
+
+	// works the same with any of the complext objects, for example function
+	myFunction.myFunction = function() {};
+	myFunction.myFunction = function() {};
+	myFunction.myArray = [];
+	myFunction.myString = 'string hello there';
+	myFunction.myNumber = 31;
+	myFunction.myDate = new Date();
+	myFunction.myObject = {};
+	myFunction.myMath_PI = Math.PI;
+	myFunction.myError = new Error('CRAP!');
+
+	console.log(		
+		myFunction.myFunction, 
+		myFunction.myArray, 
+		myFunction.myNumber, 
+		myFunction.myDate,
+		myFunction.myObject,
+		myFunction.myMath_PI,
+		myFunction.myError
+	);
+
+	// the simple take away is that complex objects can contain or refer to anything you can nominally express in JavaScript.
