@@ -13,5 +13,17 @@
 	myObject.myString = 'string hello there';
 	myObject.myNumber = 31;
 	myObject.myDate = new Date();
+	myObject.myObject = {};
+	myObject.myMath_PI = Math.PI;
+	myObject.myError = new Error('CRAP!');
 
-	console.log(myObject.myFunction, myObject.myArray, myObject.myNumber, myObject.myDate);
+	console.log(
+		myObject.myFunction, 
+		myObject.myArray, 
+		myObject.myNumber, 
+		myObject.myDate,
+		myObject.myObject,
+		myObject.myMath_PI,
+		myObject.myError
+
+		);
