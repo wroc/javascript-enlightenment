@@ -1,6 +1,6 @@
 	'use strict';
 
-	console.log('Chapter 2: Demo 3.1, Getting/Setting/Updating an Objects Properties Using Dot Notation or Bracket Notation');
+	console.log('Chapter 2: Demo 3.4, Getting/Setting/Updating an Objects Properties Using Dot Notation or Bracket Notation');
 
 	console.log('Additionally, bracket Notation can come in handy fo rgetting a property names that are invalid JavaScript identifires. Below i use a number and a reserved keyword as a property name(valid) as a string) that only bracket notation can access');
 
