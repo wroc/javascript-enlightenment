@@ -8,4 +8,4 @@
 
 	console.log(myObject.hasOwnProperty('toString'));
 
-	console.log('The hasOwnProperty method should be levereaged when you need to determine whether a property is local to an object or inherited from the prototype chain');
+	console.log('The hasOwnProperty method should be levereaged when you need to determine whether a property is local to an object or inherited from the Prototype chain.');
