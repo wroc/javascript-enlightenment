@@ -1,6 +1,6 @@
 	'use strict';
 
-	console.log('Chapter 2: Demo 5.6, Enumerate (Loop Over) an Objects Properties using the for in loop ');
+	console.log('Chapter 2: Demo 5.7, Enumerate (Loop Over) an Objects Properties using the for in loop ');
 
 	var manny = {
 		age: 31,
