@@ -43,4 +43,3 @@
 	isRegExp()
 	isNan()
 	isUndefined()
-
