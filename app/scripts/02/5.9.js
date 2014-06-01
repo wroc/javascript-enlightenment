@@ -1,0 +1,46 @@
+
+
+	console.log('Chapter 2: Demo 5.9, Enhancing and Extending Objects with Underscore.js');
+
+	// These funtions work onall objects annd arrays
+	each()
+	map()
+	reduce()
+	detect()
+	reduceRight()
+	detect()
+	select()
+	reject()
+	all()
+	any()
+	include()
+	invoke()
+	pluck()
+	max()
+	min()
+	sortBy()
+	sortIndex()
+	toArray()
+	size()
+
+	// These functions work on all objects
+	keys()
+	values()
+	functions()
+	extend()
+	clone()
+	tap()
+	isEqual()
+	isEmpty()
+	isElement()
+	isArray()
+	isArguments()
+	isFunctions()
+	isString()
+	isNumber()
+	isBoolean()
+	isDate()
+	isRegExp()
+	isNan()
+	isUndefined()
+
