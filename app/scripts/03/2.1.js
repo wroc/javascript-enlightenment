@@ -1,4 +1,4 @@
-
+ 'use strict';
 
 	console.log('Chapter 3: Demo 2.1, Object Parameters');
 	console.log('If a value besides null or undefined i passed to the object() constructor, the value passsed wil be created as an object. so theoretially we can us the Object() constructor to create any of teh other native object that have a constructor ');

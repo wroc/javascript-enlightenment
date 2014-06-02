@@ -1,4 +1,4 @@
-
+ 'use strict';
 
 	console.log('Chapter 3: Demo 1.1, Conceptual Overview oof Using Objects Obejcts');
 
