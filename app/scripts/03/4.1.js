@@ -4,11 +4,13 @@
 
 	var addNumbersA = new Function('num1', 'num2', 'return num1 + num2');
 
-	console.log(addNumbersA(2,2)); 
+	console.log(addNumbersA(2,2));
+	console.log(addNumbersA); 
 
 	console.log();
 	console.log('Could also be written the literal way, which is much more common');
 
-	var addNumbersB = new Function(num1, num2){ return num1 + num2 };
+	var addNumbersB = function(num1, num2){ return num1 + num2;};
 
 	console.log(addNumbersB(2, 2));
+	console.log(addNumbersB);
