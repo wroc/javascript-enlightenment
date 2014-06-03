@@ -1,6 +1,6 @@
 	'use strict';
 
-	console.log('Chapter 3: Demo 3.2, Creating Object() Objects Using "Object Literals"');
+	console.log('Chapter 3: Demo 3.3, Creating Object() Objects Using "Object Literals"');
 
 	console.log('Using as strings: Creating an object literal specifired as strings');
 
