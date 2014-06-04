@@ -7,3 +7,10 @@
 	};
 
 	console.log(sayHi()); //logs 'Hi'
+
+
+	var yelp = function(){
+		console.log('I am yelping!');
+		//functions return undefined even if we dont's
+	};
+	console.log(yelp() === undefined);
