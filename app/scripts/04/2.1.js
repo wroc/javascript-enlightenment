@@ -1,6 +1,6 @@
 	'use strict';
 
-	console.log('Chapter 4: Demo 4.2, Function() Parameters');
+	console.log('Chapter 4: Demo 2.1, Function() Parameters');
 
 	var addFunction = new Function('num1', 'num2', 'return num1 + num2');
 

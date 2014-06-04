@@ -1,6 +1,6 @@
 	'use strict';
 
-	console.log('Chapter 4: Demo 4.2, Conceptual Overview of Using Function() Objects');
+	console.log('Chapter 4: Demo 1.1, Conceptual Overview of Using Function() Objects');
 
 	var addNumbersA = new Function('num1', 'num2', 'return num1 + num2');
 

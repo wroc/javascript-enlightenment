@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"time",
+				"timesFunction"
+			],
+			[
+				"ad",
+				"addNumbersA"
+			],
+			[
+				"num",
+				"nums2"
+			],
+			[
 				"doc",
 				"document"
 			],
@@ -32,18 +44,18 @@
 			}
 		},
 		{
-			"file": "app/scripts/03/3.2.js",
+			"file": "app/scripts/04/2.1.js",
 			"settings":
 			{
-				"buffer_size": 378,
+				"buffer_size": 659,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app/ch03/index.html",
+			"file": "app/ch04/index.html",
 			"settings":
 			{
-				"buffer_size": 4754,
+				"buffer_size": 3888,
 				"line_ending": "Unix"
 			}
 		}
@@ -120,12 +132,14 @@
 	},
 	"file_history":
 	[
-		"/var/www/javascript-enlightenment/app/scripts/03/1.1.js",
-		"/var/www/javascript-enlightenment/app/scripts/03/2.1.js",
-		"/var/www/javascript-enlightenment/app/index.html",
-		"/var/www/javascript-enlightenment/app/ch03/index.html",
 		"/var/www/javascript-enlightenment/app/ch01/index.html",
 		"/var/www/javascript-enlightenment/app/ch02/index.html",
+		"/var/www/javascript-enlightenment/app/ch03/index.html",
+		"/var/www/javascript-enlightenment/app/scripts/02/5.9.js",
+		"/var/www/javascript-enlightenment/app/scripts/03/3.3.js",
+		"/var/www/javascript-enlightenment/app/index.html",
+		"/var/www/javascript-enlightenment/app/scripts/03/1.1.js",
+		"/var/www/javascript-enlightenment/app/scripts/03/2.1.js",
 		"/var/www/javascript-enlightenment/bower.json",
 		"/home/manny/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 		"/var/www/javascript-enlightenment/app/styles/main.css",
@@ -177,6 +191,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"nums",
+			"()",
 			"code",
 			"tsh",
 			"require",
@@ -340,19 +356,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "app/scripts/03/3.2.js",
+					"file": "app/scripts/04/2.1.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 378,
+						"buffer_size": 659,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								119,
-								239
+								339,
+								339
 							]
 						],
 						"settings":
@@ -472,19 +488,19 @@
 				},
 				{
 					"buffer": 2,
-					"file": "app/ch03/index.html",
+					"file": "app/ch04/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4754,
+						"buffer_size": 3888,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4698,
-								4698
+								3833,
+								3833
 							]
 						],
 						"settings":
@@ -598,7 +614,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1428.0,
+						"translation.y": 1080.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -678,7 +694,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 203.0,
 	"status_bar_visible": true,
 	"template_settings":
