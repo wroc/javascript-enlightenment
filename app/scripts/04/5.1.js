@@ -1,24 +1,12 @@
 	'use strict';
 
-	console.log('Chapter 4: Demo 6.1, this and arguments Values Available to All Functions');
+	console.log('Chapter 4: Demo 5.1, Passing Parameters to a Function');
 
-	// Inside the scope/body of all function , the this and arguments values are Available
-	var add = function(){
-		return arguments[0] + arguments[1];
+	// Paramaters are vehicles for passing values into the scope of a function when it is invoked.
+
+	var addfunction = function(number1, number2){
+		var sum = number1 + number2;
+		return sum;
 	};
 
-	console.log('add(4,4)');
-
-	console.log('');
-	console.log('The this keyword, passed to all functions is a reference to the object tha contains the function');
-
-	var myObject1 = {
-		name: 'myObject1',
-		myMethod: function(){ console.log(this); }
-	};
-
-	myObject1.myMethod()
-
-	var myObject2 = function(){ console.log(this); };
-
-	myObject2()
+	console.log(addfunction(3,9));
