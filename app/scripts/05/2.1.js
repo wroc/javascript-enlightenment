@@ -1,6 +1,6 @@
 	'use strict';
 
-	console.log('Chapter 5: Demo 1.1, Global Functions Contained Within the Head Object');
+	console.log('Chapter 5: Demo 2.1, Global Functions Contained Within the Head Object');
 
 
 	// JavaScript ships with some predefined function.
