@@ -1,6 +1,6 @@
 	'use strict';
 
-	console.log('Chapter 4: Demo 11.1, Defining a Function (Statement, Expression or Constructor)');
+	console.log('Chapter 4: Demo 12.1, Defining a Function (Statement, Expression or Constructor)');
 
 	// functions are invoked using four different scenarios or patterns
 	/*
