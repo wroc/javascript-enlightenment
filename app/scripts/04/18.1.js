@@ -1,6 +1,6 @@
 	'use strict';
 
-	console.log('Chapter 4: Demo 17.1, Invoking Function Statements before they are defined(Function Hoisting');
+	console.log('Chapter 4: Demo 18.1, Invoking Function Statements before they are defined(Function Hoisting');
 
 	//  A function statement can be invoked during execution before its actual definition. 
 
