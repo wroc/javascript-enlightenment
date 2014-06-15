@@ -4,4 +4,4 @@
 
 	// a function expression, any function except on created from the Function() constructor can be immediatly invoked by using the parenthesis operator
 
-	var sayWord = function() { console.log('Word 2 yo mo!');}();
+	var sayWord = function() { console.log('Word 2 yo mo!');}(); 
