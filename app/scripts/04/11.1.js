@@ -1,6 +1,6 @@
 	'use strict';
 
-	console.log('Chapter 4: Demo 11.1, Defining a Function (Statement, Expression or Constructor) )');
+	console.log('Chapter 4: Demo 11.1, Defining a Function (Statement, Expression or Constructor)');
 
 	// A function can be defined in three different ways: a function constructor, a function statement, or a function expression.
 
