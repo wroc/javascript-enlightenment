@@ -1,0 +1,653 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"t",
+				"title	Attr"
+			],
+			[
+				"styel",
+				"stylesheet"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration:   (property)"
+			],
+			[
+				"wit",
+				"width:   (property)"
+			],
+			[
+				"back",
+				"background-size:   (property)"
+			],
+			[
+				"tex-",
+				"text-indent"
+			],
+			[
+				"margn",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"content",
+				"content-page-banner"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"button",
+				"button-small"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"re",
+				"refilweF"
+			],
+			[
+				"get",
+				"getGender"
+			],
+			[
+				"ma",
+				"MannyB"
+			],
+			[
+				"Many",
+				"MannyB"
+			],
+			[
+				"Manny",
+				"MannyB"
+			],
+			[
+				"my",
+				"myString"
+			],
+			[
+				"menu",
+				"menulink"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"border-",
+				"border-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"dsi",
+				"display"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"selected_items":
+		[
+			[
+				"SASSS",
+				"Set Syntax: Sass"
+			],
+			[
+				"sasss",
+				"Set Syntax: Sass"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"hgml",
+				"BracketHighlighter: Jump to Left Bracket"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 319.0,
+		"history":
+		[
+			"git clone - development git@github.com",
+			"cd ..",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mannuelferreira/Desktop/sp/index.htm",
+		"/Users/mannuelferreira/workspace/wwc/iol/angular-element-mockups/src/teamtalk/pages.html",
+		"/Users/mannuelferreira/workspace/wwc/iol/angular-element-mockups/src/teamtalk/css/sass/home.sass",
+		"/Users/mannuelferreira/workspace/wwc/iol/angular-element-mockups/src/teamtalk/css/sass/pages.sass",
+		"/Users/mannuelferreira/workspace/wwc/iol/angular-element-mockups/src/teamtalk/css/pages.css",
+		"/Users/mannuelferreira/workspace/wwc/iol/angular-element-mockups/src/teamtalk/css/home.css",
+		"/Users/mannuelferreira/workspace/wwc/iol/angular-element-mockups/src/teamtalk/gruntfile.js",
+		"/Users/mannuelferreira/workspace/wwc/iol/angular-element-mockups/src/teamtalk/home.html",
+		"/Users/mannuelferreira/Desktop/IOL Sport-tags.html",
+		"/Users/mannuelferreira/workspace/wwc/iol/angular-element-mockups/src/teamtalk/css/app.css",
+		"/Users/mannuelferreira/workspace/wwc/webcansites/tfg_asj/emailers/ddp/campaignmonitor/index.html",
+		"/Users/mannuelferreira/workspace/wwc/iol/angular-element-mockups/src/teamtalk/package.json",
+		"/Users/mannuelferreira/workspace/wwc/iol/angular-element-mockups/src/googlewebsearch/index.html",
+		"/Users/mannuelferreira/workspace/wwc/iol/angular-element-mockups/src/teamtalk/node_modules/grunt/node_modules/hooker/test/hooker_test.js",
+		"/Users/mannuelferreira/Desktop/giantlotto/GiantLottoURL.txt",
+		"/Users/mannuelferreira/workspace/wwc/iol/angular-element-mockups/src/teamtalk/css/sass/config.rb",
+		"/Users/mannuelferreira/workspace/wwc/iol/angular-element-mockups/src/gq/wwc20140526/css/sass/reset.sass",
+		"/Users/mannuelferreira/Desktop/index.html",
+		"/Users/mannuelferreira/workspace/wwc/webcansites/surflinegh/custom/templates/snippets/top-left-navigation.php",
+		"/Users/mannuelferreira/workspace/wwc/webcansites/surflinegh/custom/templates/header.php",
+		"/Users/mannuelferreira/workspace/wwc/webcansites/surflinegh/css/sass/_navigation.sass",
+		"/Users/mannuelferreira/workspace/wwc/webcansites/surflinegh/css/sass/_jquery.bxslider.sass",
+		"/Users/mannuelferreira/workspace/wwc/webcansites/surflinegh/custom/templates/controls/control-data-calculator.php",
+		"/Users/mannuelferreira/workspace/wwc/webcansites/surflinegh/css/sass/styles.sass",
+		"/Users/mannuelferreira/workspace/wwc/webcansites/surflinegh/css/sass/_variables.sass",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/custom/templates/header.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/custom/templates/controls/control-product-listing.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/css/sass/_jquery.bxslider.sass",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/css/sass/_navigation.sass",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/custom/templates/controls/control-job-application.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/custom/templates/controls/control-contact-us.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/custom/templates/controls/control-category-banner.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/_chopup/custom/devices-header.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/js/control-data-calculator.js",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/js/general.js",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/css/sass/_jquery.sidr.dark.sass",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/css/sass/_mixins.sass",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/css/styles.css",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/css/sass/_variables.sass",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/css/sass/styles.sass",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/gruntfile.js",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/index.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/custom/templates/controls/control-banner.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/custom/templates/footer.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/css/sass/_fancybox.sass",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/_chopup/css/styles.css",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/_chopup/css/styles.scss",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/custom/templates/product.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/custom/templates/news-article.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/custom/templates/layout-1.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/config.rb",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/js/fancybox/jquery.fancybox.css",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/css/sass/_sequencejs.sass",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/css/_fancybox.scss",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/css/sequencejs-theme.sliding-horizontal-parallax.css",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/css/jquery.bxslider.css",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/css/_mixins.scss",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/css/styles.scss",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/conf/surflinegh.dev.10.0.1.181.xip.io.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/.htaccess",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/package.json",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/conf/staging.surflinegh.com.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/conf/surflinegh.dev.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/surflinegh/conf/settings.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/glamour.co.za/wp-content/themes/surflinegh/conf/settings.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/glamour.co.za/wp-content/themes/surflinegh/conf/surflinesite.dev.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/glamour.co.za/wp-content/themes/surflinegh/index.php",
+		"/Users/mannuelferreira/Desktop/surflinegh.dev.php",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf",
+		"/Users/mannuelferreira/Work/WWC/webcansites/glamour.co.za/wp-content/themes/surflinegh/conf/staging.surflinegh.com.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/glamour.co.za/wp-content/themes/surflinegh/.htaccess",
+		"/Users/mannuelferreira/Work/WWC/webcansites/glamour.co.za/wp-content/themes/surflinegh/conf/surflinegh.dev.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/glamour.co.za/wp-content/themes/glamour/config.rb",
+		"/Users/mannuelferreira/Work/WWC/webcansites/glamour.co.za/wp-content/themes/glamour/Gruntfile.js",
+		"/Users/mannuelferreira/Work/WWC/webcansites/glamour.co.za/wp-content/themes/glamour/style.scss",
+		"/Users/mannuelferreira/Work/WWC/webcansites/glamour.co.za/wp-content/themes/glamour/package.json",
+		"/Users/mannuelferreira/Work/WWC/webcansites/glamour.co.za/wp-content/themes/glamour/header.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/glamour.co.za/wp-content/themes/glamour/archive.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/glamour.co.za/wp-config.php",
+		"/Users/mannuelferreira/Work/Sandbox/fullPage.js/fullpage.sublime-project",
+		"/Users/mannuelferreira/Work/WWC/webcansites/glamour.co.za/wp-content/themes/glamour/single.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/glamour.co.za/wp-content/themes/glamour/style.css",
+		"/Users/mannuelferreira/Work/Sandbox/fullPage.js/site1/css/sass/main.sass",
+		"/Users/mannuelferreira/Work/Sandbox/fullPage.js/jquery.fullPage.css",
+		"/Users/mannuelferreira/Work/Sandbox/fullPage.js/gruntfile.js",
+		"/Users/mannuelferreira/Work/Sandbox/fullPage.js/site1/grunfile.js",
+		"/Users/mannuelferreira/Work/Sandbox/fullPage.js/site1/package.json",
+		"/Users/mannuelferreira/Work/Sandbox/fullPage.js/jquery.fullPage.js",
+		"/Users/mannuelferreira/Work/Sandbox/fullPage.js/site1/js/fullpage.js",
+		"/Users/mannuelferreira/Work/Sandbox/fullPage.js/config.rb",
+		"/Users/mannuelferreira/Work/Sandbox/fullPage.js/npm-debug.log",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/.htaccess",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/custom/templates/home/banners_new.bk.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/custom/templates/home/banners.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/css/sass/_mobile-layouts.scss",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/custom/templates/generic/sitemap.php",
+		"/Users/mannuelferreira/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/js/site.js",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/css/img/icon-menu.png",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/custom/templates/mobileFooter.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/custom/templates/home/banners_new.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/custom/templates/header.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/custom/templates/snippets/page-head.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/custom/templates/footer.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/custom/templates/snippets/nav-main.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/css/sass/_mixin.scss",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/css/sass/styles.scss",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/gruntfile.js",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/css/sass/foundation/_settings.scss",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/css/sass/foundation/_functions.scss",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/custom/templates/temp-nav.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/_chopup/css/styles.css",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/css/styles.css",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/custom/templates/home/info.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/conf/staging.myciti.wwc.co.za.php",
+		"/Users/mannuelferreira/Work/WWC/webcansites/myCiti/custom/templates/home/home.php",
+		"/Users/mannuelferreira/Work/Sites/WWC/webcansites/myCiti/css/sass/partials/_mediaqueries.scss",
+		"/Users/mannuelferreira/Work/Sites/WWC/webcansites/myCiti/css/sass/partials/_mixins.scss",
+		"/Users/mannuelferreira/Work/Sites/WWC/webcansites/myCiti/css/sass/styles.scss",
+		"/Users/mannuelferreira/Work/Sites/WWC/webcansites/myCiti/custom/templates/footer.php",
+		"/Users/mannuelferreira/Downloads/_library.scss",
+		"/Users/mannuelferreira/Work/Sites/WWC/webcansites/myCiti/_chopup/f5/one/index.html",
+		"/Users/mannuelferreira/Work/Sites/WWC/webcansites/myCiti/_chopup/f5/one/scss/app.scss",
+		"/Users/mannuelferreira/Work/Sites/WWC/webcansites/myCiti/_chopup/f5/one/config.rb",
+		"/Users/mannuelferreira/Work/Sites/WWC/webcansites/myCiti/_chopup/f5/one/gruntfile.js",
+		"/Users/mannuelferreira/Work/Sites/WWC/webcansites/myCiti/_chopup/responsive/css/sass/_library.sass",
+		"/Users/mannuelferreira/Work/Sites/WWC/webcansites/myCiti/config.rb"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.php",
+			"",
+			"*.sass",
+			"*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"team",
+			"15",
+			"fixture",
+			"status",
+			"team",
+			"nextFixture",
+			"30px",
+			".2s",
+			"nextMatch",
+			"//",
+			"navbar-container",
+			"bx-viewport",
+			".bx-viewport",
+			"bx-viewport",
+			".bx-controls",
+			".bx-control",
+			".bx-control ",
+			".bx-control",
+			"time",
+			".\n",
+			".logo",
+			".bx-controls",
+			".tabbed-drop-container",
+			".bx-controls",
+			"bx-viewport",
+			"bx-wrapper",
+			"bx-wra",
+			".menu",
+			".menu ",
+			"menu",
+			".menu",
+			"icon",
+			"class=\"catagory-content\"",
+			".bx-wrapper",
+			"bx-wrapper",
+			"content-page-container",
+			".catagory-content",
+			".catagory-content ",
+			", .data-usage-widget",
+			".menu",
+			".mene",
+			".meu",
+			"text-control",
+			"join our team",
+			"choose",
+			"calculator ",
+			"calculator",
+			"1495",
+			"data-usage-widget",
+			"content-page-banner",
+			"bx-wrapper",
+			"device-page-banner",
+			"content-page-banner",
+			"product-block",
+			"navi",
+			"400",
+			".footer",
+			"gooter",
+			".footer",
+			".active ",
+			".active",
+			".activ",
+			"hamburger",
+			"980",
+			".footer-container",
+			".banner-image",
+			"li img",
+			"bx-viewport",
+			".banner-content",
+			"footer",
+			".content-page",
+			".logo",
+			".feature-block",
+			"bx-controls-direction",
+			"670",
+			".mobile-nav-drop",
+			".mobile-nav-drop.active",
+			"mobile-nav-drop",
+			"980px",
+			"bx-viewport",
+			"bx-wrapper",
+			"bx-controls ",
+			"bx-controls",
+			"bx-viewport",
+			".banner-image",
+			"bx",
+			".tablet",
+			".inner",
+			"background",
+			"bx-viewport",
+			"$fromColor",
+			"$toColor",
+			".banner-content",
+			"background",
+			"$text-blue",
+			".bx-wrapper .bx-prev",
+			"jquery.sidr.min.js",
+			"rns_camelia.svg",
+			"jquery.sidr.dark.css",
+			"sequencejs-theme.sliding-horizontal-parallax.css",
+			" -----",
+			" *-----------------------------------------",
+			"breakpoint",
+			"bx-viewport",
+			"sass",
+			"type",
+			"wp",
+			"jquer",
+			"define('SCRIPT_DEBUG', true);",
+			".tall",
+			".tex",
+			"MannyB",
+			"src=\"../",
+			"site1",
+			"MyCiti",
+			"logo",
+			"ul.nav-main ol",
+			"trip",
+			".menu-dropdown h1",
+			"openShowNearStop",
+			"menuShowNearStop",
+			"showNearestStop",
+			"showMenu",
+			"openTripPlanner",
+			"menuTripPlanner",
+			"menulink",
+			"menuLinkTripPlanner",
+			"menulink1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"src/teamtalk/home.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Work/SurflineGH.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

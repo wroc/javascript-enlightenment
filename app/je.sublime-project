@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/mannuelferreira/workspace/sandbox/je/bower_components"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/mannuelferreira/workspace/sandbox/je/dist"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/mannuelferreira/workspace/sandbox/je/node_modules"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/mannuelferreira/workspace/sandbox/je/test"
+		}
+	]
+}

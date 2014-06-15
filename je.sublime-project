@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "app"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "bower_components"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "dist"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "node_modules"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "test"
+		}
+	]
+}
