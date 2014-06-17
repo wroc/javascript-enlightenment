@@ -1,6 +1,6 @@
 	'use strict';
 
-	console.log('Chapter 5: Demo 4.2, Refering to the Head Object');
+	console.log('Chapter 5: Demo 4.1, Refering to the Head Object');
 
 	var foo =  'bar';
 
