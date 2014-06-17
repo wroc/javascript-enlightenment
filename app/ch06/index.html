@@ -2,7 +2,7 @@
 <html class="no-js">
   <head>
       <meta charset="utf-8">
-      <title>Chapter 5</title>
+      <title>Chapter 6: The this Keyword</title>
       <meta name="description" content="">
       <meta name="viewport" content="width=device-width">
       <link rel="shortcut icon" href="/favicon.ico">
@@ -28,21 +28,19 @@
                   <li><a href="../ch02">2</a></li>
                   <li><a href="../ch03">3</a></li>
                   <li><a href="../ch04">4</a></li>
-                  <li class="active"><a href="#">5</a></li>
-                  <li><a href="../ch06">6</a></li> 
+                  <li><a href="../ch05">5</a></li>
+                  <li class="active"><a href="#">6</a></li>
                   <li><a href="https://twitter.com/manidf"><span class="glyphicon glyphicon-user"></span></a></li>
               </ul>
               <h3 class="text-muted">JavaScript Enlightenment</h3>
           </div>
 
           <div class="jumbotron">
-              <h1>Chapter 5</h1>
-              <h2>The Head/global Object</h2>
-             <h3>Conceptual overview of the Head Object</h3>
+              <h1>Chapter 6</h1>
+              <h2>The this Keyword</h2>
+             <h3>Conceptual overview of this and How it Refers to Objects</h3>
               <p>
-                 JavaScript code, itself , must be contained with in aboject. As an example, when crafting JavaScript code for web browser environment, JavaScript is contained and executed within the <b>window</b> object. This <b>window</b>  object is concidered to be the "head object", or sometimes confusingly refered to as "the global object"
-              </p>
-              <p>The Head object is setup by JavaSript behing the scenes to encapsulate user-defined code and to house the native code with which JavaScript comes prepackaged. User-defined code is placed by JavaScript inside the head object for execution.</p>
+                When a function is created, a keyword called this is created(behind the scenes), which links to the object in which the function operates. Said another way, this is available to the scope of its function, yet is a reference to the object of which that function is a property/method.</p>
               <p class="lead"> well what you waiting for "Inspect element"</p>
           </div>
     
@@ -75,7 +73,7 @@
       <!-- endbuild -->
 
       <!-- build:js({app,.tmp}) scripts/main.js -->
-      <script src="../../scripts/05/5.1.js"></script> 
+      <script src="../../scripts/06/1.1.js"></script> 
       <!-- endbuild -->
 </body>
 </html>
