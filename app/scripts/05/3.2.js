@@ -8,6 +8,6 @@
 		var run = function(){
 			console.log(foo); //foo is undefined, no longer in the global scope error occurs
 		}();
-	}
+	};
 
 	myApp();
