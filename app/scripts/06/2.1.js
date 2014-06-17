@@ -1,6 +1,6 @@
 	'use strict';
 
-	console.log('Chapter 6: Demo 1.1, How Is the Value of this Determined');
+	console.log('Chapter 6: Demo 2.1, How Is the Value of this Determined');
 
 	// the myObject in the code below is given a property called sayFoo, which points to sayFoo function.
 	// When the sayFoo function is called from the global scope, this refers to the window object. 
@@ -18,6 +18,6 @@
 
 	window.myObject.sayFoo();
 
-	window.sayFoo();
+	window.sayFoo(); 
 
 	//  clearly, the value of this is based on the context in which the function is being called. Concider that both myObject.sayFoo and sayFoo point to the same function. However depending upon where sayFoo() is called from, the value of this is different.
