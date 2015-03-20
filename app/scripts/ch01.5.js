@@ -6,7 +6,7 @@
 	var myNumber = 10;
 	var myBoolean = false;
 	var myNull = null;
-	var myUndefind = myUndefind;
+	var myUndefind = undefined;
 
 	console.log(myString, myNumber, myBoolean, myNull, myUndefind);
 
@@ -20,7 +20,7 @@
 		myNumber: 10,
 		myBoolean: true,
 		myNull: null,
-		myUndefind: myUndefind
+		myUndefind: undefined
 	};
 
 	console.log(myObject);
