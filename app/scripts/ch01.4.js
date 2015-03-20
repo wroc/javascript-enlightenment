@@ -30,6 +30,6 @@ console.log(myString.constructor, myStringLiteral.constructor);
 console.log(myBoolean.constructor, myBooleanLiteral.constructor);
 console.log(myObject.constructor, myObjectLiteral.constructor);
 console.log(myArray.constructor, myArrayLiteral.constructor);
-console.log(myFunction.constructor, myArrayLiteral.constructor);
+console.log(myFunction.constructor, myFunctionLiteral.constructor);
 console.log(myRegExp.constructor, myRegExpLiteral.constructor);
 
